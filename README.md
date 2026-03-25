@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -106,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
