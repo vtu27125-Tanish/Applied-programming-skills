@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -57,4 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
