@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2418-sort-the-people](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vtu27125-Tanish/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
